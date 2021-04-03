@@ -1,2 +1,2 @@
-# Word_Search_Game(Python)
-A simple word-search game, similar to scrabble.
+# Word_Search_Game
+A simple word-search game, similar to scrabble. Coded in Python 3. 
